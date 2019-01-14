@@ -1,0 +1,11 @@
+todoMVC功能清单
+1.添加一条todo
+2.删除一条todo
+3.双击编辑一条todo
+4.选中一条todo改变它的状态，由active转为completed,样式的改变
+5.取消选中，它的状态由completed转为active，样式的改变
+6.清除completed状态的todo
+7.展示同时active和completed状态的todo
+8.只展示active状态的todo
+9.只展示completed状态的todo
+10.展示还剩下几条active状态的todo
